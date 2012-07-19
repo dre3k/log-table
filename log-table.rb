@@ -49,5 +49,5 @@ table
 a href='/' go home
 h1 error
 p there is no way I can parse this
-p come back when u sane
+p come back when u r sane
 
