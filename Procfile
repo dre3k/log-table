@@ -1,1 +1,1 @@
-log-table: bundle exec ruby log-table.rb -p $PORT
+log_table: bundle exec ruby log-table.rb -p $PORT
